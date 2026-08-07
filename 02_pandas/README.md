@@ -12,11 +12,11 @@ This folder documents everything I learn while studying Pandas. Each topic conta
 
 ## Contents
 
-### [01. Introduction](01_introduction)
+### [01. Introduction](./01_Introduction/)
 
-- [01. Read Data in Pandas](01_introduction/01-read-data.ipynb)
-- [02. Selecting Series from a DataFrame](01_introduction/02-select-series.ipynb)
-- [03. Parentheses vs attributes](01_introduction/03-parentheses-vs-attributes.ipynb)
+- [01. Read Data in Pandas](./01_Introduction/01-read-data.ipynb)
+- [02. Selecting a Series from a DataFrame](./01_Introduction/02-select-series.ipynb)
+- [03. Parentheses vs. Attribute Access](./01_Introduction/03-parentheses-vs-attributes.ipynb)
 
 ---
 
