@@ -5,3 +5,4 @@ Learning Python, data analysis, machine learning, and AI through notes, hands-on
 ## Contents
 
 - [Pandas](02_pandas/)
+- [Exploratory Data Analysis](./04_eda/)
