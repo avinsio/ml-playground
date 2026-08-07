@@ -29,7 +29,7 @@ This folder documents everything I learn while studying Pandas. Each topic conta
 │
 ├── 01_introduction/
 │   └── 01-read-data.ipynb
-│
+│   └── 02-select-series.ipynb
 └── ...
 ```
 
