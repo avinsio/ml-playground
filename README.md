@@ -1,1 +1,7 @@
 # ML Playground
+
+Learning Python, data analysis, machine learning, and AI through notes, hands-on practice, experiments, and mini projects.
+
+## Contents
+
+- [Pandas](02_pandas/)
