@@ -16,7 +16,7 @@ This folder documents everything I learn while studying Pandas. Each topic conta
 
 - [01. Read Data in Pandas](01_introduction/01-read-data.ipynb)
 
-> More topics will be added as I continue learning.
+
 
 ---
 
