@@ -18,6 +18,9 @@ This folder documents everything I learn while studying Pandas. Each topic conta
 - [02. Selecting a Series from a DataFrame](./01_Introduction/02-select-series.ipynb)
 - [03. Parentheses vs. Attribute Access](./01_Introduction/03-parentheses-vs-attributes.ipynb)
 
+### [02. DataFrame Basics](./02_DataFrame_Basics/)
+
+- [01.Rename columns](./02_DataFrame_Basics/01-rename-columns.ipynb)
 ---
 
 ## Directory Structure
@@ -31,6 +34,8 @@ This folder documents everything I learn while studying Pandas. Each topic conta
 │   └── 01-read-data.ipynb
 │   └── 02-select-series.ipynb
 │   └── 03-parentheses-vs-attributes.ipynb
+├── 02_DataFrame_Basics
+|   └── 01-rename-columns.ipynb
 └── ...
 ```
 
