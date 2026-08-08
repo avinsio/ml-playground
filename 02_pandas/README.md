@@ -23,6 +23,7 @@ This folder documents everything I learn while studying Pandas. Each topic conta
 - [01.Rename columns](./02_DataFrame_Basics/01-rename-columns.ipynb)
 - [02.Remove columns](./02_DataFrame_Basics/02-remove-columns.ipynb)
 - [03.Sort values](./02_DataFrame_Basics/03-sort-values.ipynb)
+- [04.Select rows & columns](./02_DataFrame_Basics/04-select-rows-columns.ipynb)
 ---
 
 ## Directory Structure
@@ -40,9 +41,10 @@ This folder documents everything I learn while studying Pandas. Each topic conta
 |   └── 01-rename-columns.ipynb
 |   └── 02-remove-columns.ipynb
 |   └── 03-sort-values.ipynb
+|   └── 04-select-rows-columns.ipynb
 └── ...
 ```
-
+Select rows & columns
 ---
 
 ## Learning Resources
