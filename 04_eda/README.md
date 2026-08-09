@@ -16,6 +16,7 @@ This folder covers the concepts and techniques of Exploratory Data Analysis (EDA
 
 - [01. Understanding Your Data](01-understanding-your-data.ipynb)
 - [02. Univariate Analysis](./02-univariate-analysis.ipynb)
+- [03. Bivariate Analysis](./03-bivariate-analysis.ipynb)
 
 
 ---
@@ -28,6 +29,7 @@ This folder covers the concepts and techniques of Exploratory Data Analysis (EDA
 ├── README.md
 ├── 01-understanding-your-data.ipynb
 ├── 02-univariate-analysis.ipynb
+├── 03-bivariate-analysis.ipynb
 └── ...
 ```
 
