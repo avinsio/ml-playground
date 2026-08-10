@@ -26,8 +26,11 @@ This folder documents everything I learn while studying Pandas. Each topic conta
 - [04.Select rows & columns](./02_DataFrame_Basics/04-select-rows-columns.ipynb)
 - [05.Axis parameter](./02_DataFrame_Basics/05-axis-parameter.ipynb)
 - [06.Index](./02_DataFrame_Basics/06-index.ipynb)
----
 
+### [03 Filtering Selection](./03_Filtering_Selection/)
+
+- [01.Filter rows](./03_Filtering_Selection/01-filter-rows.ipynb)
+---
 ## Directory Structure
 
 ```text
@@ -46,6 +49,8 @@ This folder documents everything I learn while studying Pandas. Each topic conta
 |   └── 04-select-rows-columns.ipynb
 |   └── 05-axis-parameter.ipynb
 |   └── 06-index.ipynb
+├── 03_Filtering_Selection
+|   └── 01-filter-rows.ipynb
 └── ...
 ```
 ---
