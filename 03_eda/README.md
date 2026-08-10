@@ -25,7 +25,7 @@ This folder covers the concepts and techniques of Exploratory Data Analysis (EDA
 ## Directory Structure
 
 ```text
-04_eda/
+03_eda/
 │
 ├── README.md
 ├── 01-understanding-your-data.ipynb

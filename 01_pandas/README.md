@@ -35,7 +35,7 @@ This folder documents everything I learn while studying Pandas. Each topic conta
 ## Directory Structure
 
 ```text
-02_pandas/
+01_pandas/
 │
 ├── README.md
 │
