@@ -30,6 +30,7 @@ This folder documents everything I learn while studying Pandas. Each topic conta
 ### [03 Filtering Selection](./03_Filtering_Selection/)
 
 - [01.Filter rows](./03_Filtering_Selection/01-filter-rows.ipynb)
+- [02.Multiple conditions](./03_Filtering_Selection/02-multiple-conditions.ipynb)
 ---
 ## Directory Structure
 
@@ -51,6 +52,7 @@ This folder documents everything I learn while studying Pandas. Each topic conta
 |   └── 06-index.ipynb
 ├── 03_Filtering_Selection
 |   └── 01-filter-rows.ipynb
+|   └── 02-multiple-conditions.ipynb
 └── ...
 ```
 ---
