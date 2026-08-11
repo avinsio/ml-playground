@@ -32,6 +32,7 @@ This folder documents everything I learn while studying Pandas. Each topic conta
 - [01.Filter rows](./03_Filtering_Selection/01-filter-rows.ipynb)
 - [02.Multiple conditions](./03_Filtering_Selection/02-multiple-conditions.ipynb)
 - [03.String methods](./03_Filtering_Selection/03-string-methods.ipynb)
+- [04.Data typess](./03_Filtering_Selection/04-data-types.ipynb)
 ---
 ## Directory Structure
 
@@ -55,6 +56,7 @@ This folder documents everything I learn while studying Pandas. Each topic conta
 |   └── 01-filter-rows.ipynb
 |   └── 02-multiple-conditions.ipynb
 |   └── 03-string-methods.ipynb
+|   └── 04-data-types.ipynb
 └── ...
 ```
 ---
