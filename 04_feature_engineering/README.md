@@ -15,6 +15,7 @@ This folder covers techniques used to transform raw data into useful features fo
 ### [01 Feature scaling](./01-feature-scaling/)
 
 - [01 standarization](./01-feature-scaling/01-standarization.ipynb)
+- [02 Normalization](./01-feature-scaling/02-normalization.ipynb)
 
 
 ---
@@ -27,6 +28,7 @@ This folder covers techniques used to transform raw data into useful features fo
 ├── README.md
 ├── 01-feature-scaling
 |    └── 01-standarization.ipynb
+|    └── 02-normalization.ipynb
 └── ...
 ````
 
