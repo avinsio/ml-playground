@@ -18,7 +18,9 @@ This folder covers the concepts and techniques of Exploratory Data Analysis (EDA
 - [02. Univariate Analysis](./02-univariate-analysis.ipynb)
 - [03. Bivariate Analysis](./03-bivariate-analysis.ipynb)
 
+### [Basic Eda](./Basic_eda/)
 
+- [wine data eda](./Basic%20eda/01-wine_data-eda.ipynb)
 
 ---
 
@@ -31,6 +33,8 @@ This folder covers the concepts and techniques of Exploratory Data Analysis (EDA
 ├── 01-understanding-your-data.ipynb
 ├── 02-univariate-analysis.ipynb
 ├── 03-bivariate-analysis.ipynb
+├── Basic eda
+|   └── 01-wine_data-eda.ipynb
 └── ...
 ```
 
