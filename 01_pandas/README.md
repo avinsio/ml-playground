@@ -34,6 +34,10 @@ This folder documents everything I learn while studying Pandas. Each topic conta
 - [03.String methods](./03_Filtering_Selection/03-string-methods.ipynb)
 - [04.Data typess](./03_Filtering_Selection/04-data-types.ipynb)
 - [05.Explore Series](./03_Filtering_Selection/05-explore-series.ipynb)
+
+### [04 Data Cleaning](./04_data_cleaning/)
+
+- [01.Missing Values](./04_data_cleaning/01-missing-values.ipynb)
 ---
 ## Directory Structure
 
@@ -59,6 +63,8 @@ This folder documents everything I learn while studying Pandas. Each topic conta
 |   └── 03-string-methods.ipynb
 |   └── 04-data-types.ipynb
 |   └── 05-explore-series.ipynb
+├── 04_data_cleaning
+|   └── 01-missing-values.ipynb
 └── ...
 ```
 ---
