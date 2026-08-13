@@ -1,6 +1,6 @@
 # Projects
 
-A collection of small and intermediate projects built while learning Python, data analysis, and machine learning.
+A collection of small and intermediate projects built while learning data analysis and machine learning.
 
 These projects are used to apply concepts in practice, improve problem-solving skills, and gain experience building things independently.
 
@@ -8,6 +8,8 @@ These projects are used to apply concepts in practice, improve problem-solving s
 
 ## Contents
 
+### [01. Eda Projects](./01-eda/)
+- [01. Tips data eda](./01-eda/01_tips_eda/)
 ---
 
 ## Directory Structure
@@ -16,5 +18,6 @@ These projects are used to apply concepts in practice, improve problem-solving s
 projects/
 │
 ├── README.md
+├── 01-eda
 │
 └── ...
