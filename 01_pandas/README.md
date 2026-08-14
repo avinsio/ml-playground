@@ -39,6 +39,9 @@ This folder documents everything I learn while studying Pandas. Each topic conta
 
 - [01.Missing Values](./04_data_cleaning/01-missing-values.ipynb)
 - [02. Duplcates Values](./04_data_cleaning/02-duplicate-rows.ipynb)
+
+### [Pandas Practice](./pandas_practice/)
+- [01- getting and knowing about your data](./pandas_practice/01-geeting-and-knowing-your-data/)
 ---
 ## Directory Structure
 
@@ -67,6 +70,8 @@ This folder documents everything I learn while studying Pandas. Each topic conta
 ├── 04_data_cleaning
 |   └── 01-missing-values.ipynb
 |   └── 02-duplicate-rows.ipynb
+├── pandas_pratice
+|   └── 01-geeting-and-knowing-your-data
 └── ...
 ```
 ---
@@ -84,3 +89,7 @@ https://youtube.com/playlist?list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y
 https://pandas.pydata.org/docs/
 
 ### Additional Resources
+
+**Pandas Pracice**
+
+https://github.com/guipsamora/pandas_exercises/tree/master
