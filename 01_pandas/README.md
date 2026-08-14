@@ -38,6 +38,7 @@ This folder documents everything I learn while studying Pandas. Each topic conta
 ### [04 Data Cleaning](./04_data_cleaning/)
 
 - [01.Missing Values](./04_data_cleaning/01-missing-values.ipynb)
+- [02. Duplcates Values](./04_data_cleaning/02-duplicate-rows.ipynb)
 ---
 ## Directory Structure
 
@@ -65,6 +66,7 @@ This folder documents everything I learn while studying Pandas. Each topic conta
 |   └── 05-explore-series.ipynb
 ├── 04_data_cleaning
 |   └── 01-missing-values.ipynb
+|   └── 02-duplicate-rows.ipynb
 └── ...
 ```
 ---
