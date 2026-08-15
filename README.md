@@ -8,7 +8,6 @@ The repository covers the fundamentals of working with data, exploring and prepa
 
 ### Programming & Data
 
-* [Python](./01_python/) — Python fundamentals, programming concepts, and practice.
 * [Pandas](./01_pandas/) — Data manipulation, cleaning, filtering, and analysis.
 * [Data Visualization](./02_data_visualization/) — Exploring and presenting data through visualizations.
 * [Exploratory Data Analysis](./03_eda/) — Exploring datasets, understanding distributions, relationships, and data quality.
@@ -16,7 +15,7 @@ The repository covers the fundamentals of working with data, exploring and prepa
 ### Machine Learning
 
 * [Feature Engineering](./04_feature_engineering/) — Transforming and preparing data for machine learning.
-* [Machine Learning](./05_machine_learning/) — Model training, evaluation, and practical machine learning techniques.
+* [Machine Learning](./05-machine_learning/) — Model training, evaluation, and practical machine learning techniques.
 
 ### Datasets & Projects
 
