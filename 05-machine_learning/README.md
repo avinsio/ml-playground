@@ -19,6 +19,7 @@ This folder covers the core concepts and techniques used in machine learning, fr
 ### [ml tutoriaal projects](./ml_tutorial_projects/)
 
 - [01.Simple linear regression](./ml_tutorial_projects/01-simple-linear-regression/)
+- [02.Multiple linear regression](./ml_tutorial_projects/02-multiple-linear-regression/)
 
 ---
 
@@ -32,6 +33,7 @@ This folder covers the core concepts and techniques used in machine learning, fr
 |    └── 01-regreesion
 ├── ml_tutorial_projects
 |    └── 01-simple-linear-regression
+|    └── 02-multiple-linear-regression
 └── ...
 
 ## Learning Resources
