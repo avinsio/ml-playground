@@ -17,6 +17,7 @@ wqu-applied-data-science-lab/
 │
 ├── 01-mexico_house
 │   ├── 01-know-your-data.ipyng
+│   ├── visualization_basic.ipynb
 └── README.md
 ```
 
