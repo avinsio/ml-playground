@@ -1,7 +1,7 @@
 .venv/
 __pycache__/
 .ipynb_checkpoints/
-.06-wqu\datasets
+/06-wqu/datasets/
 .vscode/
 *.pyc
 .env
