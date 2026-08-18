@@ -17,6 +17,10 @@ The repository covers the fundamentals of working with data, exploring and prepa
 * [Feature Engineering](./04_feature_engineering/) — Transforming and preparing data for machine learning.
 * [Machine Learning](./05-machine_learning/) — Model training, evaluation, and practical machine learning techniques.
 
+### Applied Data Science
+
+* [WorldQuant University](./06-wqu/) — Hands-on data science practice and projects from the WorldQuant University Applied Data Science Lab.
+
 ### Datasets & Projects
 
 * [Datasets](./datasets/) — Datasets used throughout the learning and practice work.
@@ -25,4 +29,3 @@ The repository covers the fundamentals of working with data, exploring and prepa
 ## Resources
 
 Learning resources and references are documented within the relevant topic folders alongside the notes and practice material.
-
