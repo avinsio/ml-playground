@@ -1,4 +1,4 @@
-# Feature Engineering
+# Data Preprocessing
 
 This folder contains my notes, practice notebooks, experiments, and exercises while learning **Feature Engineering**. It focuses on preparing and transforming data for machine learning.
 
@@ -21,12 +21,15 @@ This folder covers techniques used to transform raw data into useful features fo
 
 - [01. Ordinal encoding](./02-encoding-categorical-data/01-ordinal-encoding.ipynb)
 
+### [03. Column Transformer](./03_column_transformer/)
+
+- [Notebook](./03_column_transformer/notebook.ipynb)
 ---
 
 ## Directory Structure
 
 ```text
-05_feature_engineering/
+04_data_preprocessing/
 │
 ├── README.md
 ├── 01-feature-scaling
@@ -34,6 +37,8 @@ This folder covers techniques used to transform raw data into useful features fo
 |    └── 02-normalization.ipynb
 ├── 02-encoding-categorical-data
 |    └── 01-ordinal-encoding.ipynb
+├──03_column_transformer
+|    └── notebook.ipynb
 └── ...
 ````
 

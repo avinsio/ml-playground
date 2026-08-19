@@ -14,7 +14,7 @@ The repository covers the fundamentals of working with data, exploring and prepa
 
 ### Machine Learning
 
-* [Feature Engineering](./04_feature_engineering/) — Transforming and preparing data for machine learning.
+* [Data preprocessing](./04_data_preprocessing/) — Transforming and preparing data for machine learning.
 * [Machine Learning](./05-machine_learning/) — Model training, evaluation, and practical machine learning techniques.
 
 ### Applied Data Science
