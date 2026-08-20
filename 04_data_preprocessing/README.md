@@ -20,6 +20,7 @@ This folder covers techniques used to transform raw data into useful features fo
 ### [02. Encoding categorical data](./02-encoding-categorical-data/)
 
 - [01. Ordinal encoding](./02-encoding-categorical-data/01-ordinal-encoding.ipynb)
+- [02. One Hot Encoding](./02-encoding-categorical-data/02-one-hot-enconding.ipynb)
 
 ### [03. Column Transformer](./03_column_transformer/)
 
@@ -37,6 +38,7 @@ This folder covers techniques used to transform raw data into useful features fo
 |    └── 02-normalization.ipynb
 ├── 02-encoding-categorical-data
 |    └── 01-ordinal-encoding.ipynb
+|    └── 02-one-hot-enconding.ipynb
 ├──03_column_transformer
 |    └── notebook.ipynb
 └── ...
