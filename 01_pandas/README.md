@@ -40,6 +40,10 @@ This folder documents everything I learn while studying Pandas. Each topic conta
 - [01.Missing Values](./04_data_cleaning/01-missing-values.ipynb)
 - [02. Duplcates Values](./04_data_cleaning/02-duplicate-rows.ipynb)
 
+### [05 grouping and aggregation](./05_Grouping_Aggregation/)
+
+- [Groupby](./05_Grouping_Aggregation/01-groupBy.ipynb)
+
 ### [Pandas Practice](./pandas_practice/)
 - [01- getting and knowing about your data](./pandas_practice/01-geeting-and-knowing-your-data/)
 ---
@@ -70,6 +74,8 @@ This folder documents everything I learn while studying Pandas. Each topic conta
 ├── 04_data_cleaning
 |   └── 01-missing-values.ipynb
 |   └── 02-duplicate-rows.ipynb
+├── 05_Grouping_Aggregation
+|   └── 01-groupBy.ipynb
 ├── pandas_pratice
 |   └── 01-geeting-and-knowing-your-data
 └── ...
