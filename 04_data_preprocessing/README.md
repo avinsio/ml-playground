@@ -25,6 +25,9 @@ This folder covers techniques used to transform raw data into useful features fo
 ### [03. Column Transformer](./03_column_transformer/)
 
 - [Notebook](./03_column_transformer/notebook.ipynb)
+
+### [04. Pipeline](./04_pipelines/)
+- [Pipleline](./04_pipelines/pipleline.ipynb)
 ---
 
 ## Directory Structure
@@ -41,6 +44,10 @@ This folder covers techniques used to transform raw data into useful features fo
 |    └── 02-one-hot-enconding.ipynb
 ├──03_column_transformer
 |    └── notebook.ipynb
+├──04_pipelines
+|    └── pipleline.ipynb
+|    └── predict_without_pipeline.ipynb
+|    └── without_pipeline.ipynb
 └── ...
 ````
 
