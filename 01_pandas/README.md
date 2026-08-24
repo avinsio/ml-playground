@@ -43,6 +43,7 @@ This folder documents everything I learn while studying Pandas. Each topic conta
 ### [05 grouping and aggregation](./05_Grouping_Aggregation/)
 
 - [Groupby](./05_Grouping_Aggregation/01-groupBy.ipynb)
+- [Aplly Funcation](./05_Grouping_Aggregation/02-apply-function.ipynb)
 
 ### [Pandas Practice](./pandas_practice/)
 - [01- getting and knowing about your data](./pandas_practice/01-geeting-and-knowing-your-data/)
@@ -76,6 +77,7 @@ This folder documents everything I learn while studying Pandas. Each topic conta
 |   └── 02-duplicate-rows.ipynb
 ├── 05_Grouping_Aggregation
 |   └── 01-groupBy.ipynb
+|   └── 02-apply-function.ipynb
 ├── pandas_pratice
 |   └── 01-geeting-and-knowing-your-data
 └── ...
