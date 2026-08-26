@@ -10,6 +10,7 @@ These projects are used to apply concepts in practice, improve problem-solving s
 
 ### [01. Eda Projects](./01-eda/)
 - [01. Tips data eda](./01-eda/01_tips_eda/)
+- [02. Regression Projects](./02-regreesion/)
 ---
 
 ## Directory Structure
@@ -19,5 +20,5 @@ projects/
 │
 ├── README.md
 ├── 01-eda
-│
+├── 02-Regression
 └── ...
