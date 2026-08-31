@@ -21,6 +21,10 @@ This folder covers the core concepts and techniques used in machine learning, fr
 - [01.Simple linear regression](./ml_tutorial_projects/01-simple-linear-regression/)
 - [02.Multiple linear regression](./ml_tutorial_projects/02-multiple-linear-regression/)
 
+### [Machine learning collab](./Machine_learning_collab/)
+- [Linear regression](./Machine_learning_collab/Linear_regression/)
+      └── [gradient descent](./Machine_learning_collab/Linear_regression/gradient_descent.ipynb)
+
 ---
 
 ## Directory Structure
@@ -34,6 +38,7 @@ This folder covers the core concepts and techniques used in machine learning, fr
 ├── ml_tutorial_projects
 |    └── 01-simple-linear-regression
 |    └── 02-multiple-linear-regression
+├── Machine_learning_collab
 └── ...
 
 ## Learning Resources
