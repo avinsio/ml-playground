@@ -23,8 +23,11 @@ This folder covers the core concepts and techniques used in machine learning, fr
 
 ### [Machine learning collab](./Machine_learning_collab/)
 - [Linear regression](./Machine_learning_collab/Linear_regression/)
-      └── [gradient descent](./Machine_learning_collab/Linear_regression/gradient_descent.ipynb)
+   - [gradient descent](./Machine_learning_collab/Linear_regression/gradient_descent.ipynb)
 
+### [02. hands on ml ](./02-hands-on-ml/)
+
+### [Books](./Books/)
 ---
 
 ## Directory Structure
@@ -37,8 +40,10 @@ This folder covers the core concepts and techniques used in machine learning, fr
 |    └── 01-regreesion
 ├── ml_tutorial_projects
 |    └── 01-simple-linear-regression
-|    └── 02-multiple-linear-regression
+|    └── 02-multiple-linear-regression 
+├── 02-hands-on-ml
 ├── Machine_learning_collab
+├── Books
 └── ...
 
 ## Learning Resources
