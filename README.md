@@ -6,5 +6,6 @@ I'm using this space to learn, practice, experiment, and keep track of my progre
 
 ### Repository
 
-
+* - [NumPy](./02_numpy/)
+  - [01 — Introduction to NumPy](./02_numpy/01_NumPy_Introduction.pdf)
 
