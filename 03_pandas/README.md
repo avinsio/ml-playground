@@ -8,3 +8,4 @@ This folder contains my notes, practice, and code while learning Pandas.
 
 * [01 — Introduction to Pandas](./01_into_to_pandas.ipynb)
 * [02 — DataFrame](./02_dataframe.ipynb)
+* [03 —  Operations on DataFrame](./03_operations_dataframe.ipynb)
