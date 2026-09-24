@@ -8,6 +8,7 @@ This folder contains my notes, practice, and code for working with data, explori
 - [feature engeering](./feature_engeering/)
    - [01 feature scaling](./feature_engeering/01_feature_scaling/)
    - [02 Encoding](./feature_engeering/02_encoding/)
+   - [02 Feature Transformation](./feature_engeering/03_feature_transformation/)
    
 - [01 — Introduction to EDA and feature engineering](./01_Introduction_to_EDA_feature_engineering.pdf)
 - [02 — Eda using seaborn](./02_eda_using_seaborn.ipynb)
