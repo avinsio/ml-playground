@@ -11,3 +11,4 @@ I'm using this space to learn, practice, experiment, and keep track of my progre
 - [Pandas](./03_pandas/)
 - [Data Analysis And Feature Engineering](./04_data_analysis_and_feature_engineering/)
 - [Machine learning](./05_machine_learning/)
+- [Applied data science Lab](./06_wqu_applied_data_science_lab/)

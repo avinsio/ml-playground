@@ -6,14 +6,13 @@ __pycache__/
 .venv/
 venv/
 env/
-.env/
-
-# Jupyter
-.ipynb_checkpoints/
 
 # Environment & secrets
 .env
 *.env
+
+# Jupyter
+.ipynb_checkpoints/
 
 # IDE
 .vscode/
@@ -37,3 +36,5 @@ Thumbs.db
 *.pt
 *.pth
 
+# Project data
+06_wqu_applied_data_science_lab/01_Mexican Real Estate Market/data/
