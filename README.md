@@ -8,6 +8,8 @@ A collection of notes, code, experiments, projects, and learning resources docum
 Machine-Learning-and-AI/
 ├── 01_numpy/
 │   └── README.md
+├── 02_pandas-data-analysis/
+│   └── README.md
 └── README.md
 ```
 
