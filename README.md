@@ -13,4 +13,4 @@ Machine-Learning-and-AI/
 
 ## About
 
-This repository brings together my learning notes, practical experiments, and useful resources in one place.
+A reference for the concepts I study, experiments I conduct, and resources I find useful throughout my learning process.
