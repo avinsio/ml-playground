@@ -7,6 +7,7 @@ Notes, code examples, and practice exercises covering Pandas for data analysis.
 - [Read tabular data](./01_read_tabular_data.ipynb)
 - [Select series from DataFrame](./02_select_series.ipynb)
 - [Parentheses vs attributes](./03_parentheses_vs_attributes.ipynb)
+- [Rename columns](./04_rename_columns.ipynb)
 
 ## Learning Resources
 
