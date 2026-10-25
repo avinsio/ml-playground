@@ -1,15 +1,16 @@
 # Machine Learning & AI
 
-A collection of my notes, code, experiments, projects, and learning resources as I explore Machine Learning, Artificial Intelligence, and Data Science.
+A collection of notes, code, experiments, projects, and learning resources documenting what I learn and explore across Machine Learning, Artificial Intelligence, and Data Science.
 
 ## Repository Structure
 
-
+```text
 Machine-Learning-and-AI/
-├── numpy/
+├── 01_numpy/
+│   └── README.md
 └── README.md
-
+```
 
 ## About
 
-A reference for the concepts I study, experiments I conduct, and resources I find useful throughout my learning process.
+This repository brings together my learning notes, practical experiments, and useful resources in one place.
