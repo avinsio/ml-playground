@@ -1,15 +1,15 @@
-# Learning Machine Learning
+# Machine Learning & AI
 
-This repository contains my notes, basic experiments, and projects as I learn Machine Learning and build a strong foundation in its fundamentals.
+A collection of my notes, code, experiments, projects, and learning resources as I explore Machine Learning, Artificial Intelligence, and Data Science.
 
-I'm using this space to learn, practice, experiment, and keep track of my progress along the way.
+## Repository Structure
 
-## Repository
 
-- [Python](./01_python/)
-- [NumPy](./02_numpy/)
-- [Pandas](./03_pandas/)
-- [Data Analysis And Feature Engineering](./04_data_analysis_and_feature_engineering/)
-- [Machine learning](./05_machine_learning/)
-- [Applied data science Lab](./06_wqu_applied_data_science_lab/)
-- [Ml project](./07_ml_project/)
+Machine-Learning-and-AI/
+├── numpy/
+└── README.md
+
+
+## About
+
+A reference for the concepts I study, experiments I conduct, and resources I find useful throughout my learning process.
