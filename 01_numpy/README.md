@@ -5,6 +5,7 @@ Notes, code examples, and practice exercises exploring NumPy and its core functi
 ## Topics
 
 - [Introducation to Numpy](./01_Introduction_to_NumPy.ipynb)
+- [Data-Types in Numpy](./02_data_types_in_numpy.ipynb)
 
 ## Resources
 
