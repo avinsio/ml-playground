@@ -10,6 +10,8 @@ Machine-Learning-and-AI/
 │   └── README.md
 ├── 02_pandas-data-analysis/
 │   └── README.md
+├── 03_feature_engineering_and_data_preprocessing/
+│   └── README.md
 ├── cs189/
 │   └── README.md
 └── README.md
