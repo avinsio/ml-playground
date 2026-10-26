@@ -9,6 +9,7 @@ Notes, code examples, and practice exercises covering Pandas for data analysis.
 - [Parentheses vs attributes](./03_parentheses_vs_attributes.ipynb)
 - [Rename columns](./04_rename_columns.ipynb)
 - [Remove columns](./05_remove_columns.ipynb)
+- [Sort DataFrame and Series](./06_sort_dataframe_series.ipynb)
 ## Learning Resources
 
 - [Data School — Pandas in 30 Days](https://courses.dataschool.io/pandas-in-30-days)
