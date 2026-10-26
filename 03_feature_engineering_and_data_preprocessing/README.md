@@ -5,6 +5,7 @@ Notes, code examples, and practice exercises covering data preprocessing and fea
 ## Repository Structure
 
 - [Handle missing values](./01_handle_missing_values/)
+- [Handle missing Numerical data](./01_handle_missing_values/02_handle_missing_numerical_data.ipynb)
 
 ## Learning Resources
 
