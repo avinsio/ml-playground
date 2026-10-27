@@ -7,6 +7,7 @@ Notes, code examples, and practice exercises exploring NumPy and its core functi
 - [Introducation to Numpy](./01_Introduction_to_NumPy.ipynb)
 - [Data-Types in Numpy](./02_data_types_in_numpy.ipynb)
 - [Create numpy array](./03_create_numpy_array.ipynb)
+- [Built in Funcation in Numpy](./04_built_in_funcation_in_numpy.ipynb)
 
 ## Resources
 
