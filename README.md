@@ -12,7 +12,7 @@ Machine-Learning-and-AI/
 │   └── README.md
 ├── 03_feature_engineering_and_data_preprocessing/
 │   └── README.md
-├── cs189/
+├── ml_pratice/
 │   └── README.md
 └── README.md
 ```
