@@ -6,6 +6,7 @@ Notes, code examples, and practice exercises covering data preprocessing and fea
 - [01 handle missing values](./01_handle_missing_values/)
 - [02 feature scaling](./02_Feature_scaling/)
 - [03 Encoding](./03_encoding.ipynb/)
+- [04 Column Transformer](./04_colmun_transformer/)
 
 
 
