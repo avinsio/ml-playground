@@ -4,11 +4,11 @@ This repository contains my personal notes and practice notebooks for learning N
 
 ## Repo Structure
 
-**01_numpy/**
-├── **[data/](./data/)** 
-├── **[01_data_types.ipynb](./01_data_types.ipynb)** 
-├── **[02_create_numpy_arrays.ipynb](./02_create_numpy_array.ipynb)** 
-└── **README.md** 
+- **01_numpy/**
+  - **[data/](./data/)** 
+  - **[01_data_types.ipynb](./01_data_types.ipynb)** 
+  - **[02_create_numpy_arrays.ipynb](./02_create_numpy_arrays.ipynb)** 
+  - **README.md** 
 
 ## Resources
 *   **[NumPy Official Documentation](https://numpy.org/doc/stable/)**
